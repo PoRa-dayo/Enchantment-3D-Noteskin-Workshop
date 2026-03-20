@@ -6,9 +6,11 @@
 
 *Check my other noteskins [here](https://github.com/PoRa-dayo/PoRa-Noteskins).*
 
-A NotITG/Outfox/Etterna port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main), now fully 3D modeled. (It was originally only meant to be for NotITG, but then I found out that you can structure the noteskin assets in Outfox similarly, so it's for both games now)
+**THIS NOTESKIN WILL NOT WORK ON THE ORIGINAL STEPMANIA 5.0/5.1 OR ITGMANIA VERSIONS BELOW 1.2.0.**
 
-Welcome to the NotITG/Outfox/Etterna noteskin workshop for Enchantment! This is a fully customizable "build your own" noteskin suite based on the "enchantment" noteskin included with ITGmania. Just about every aspect of the noteskin can be customized. As this is meant to be fully compatible with modcharts, all arrows and mines now have 3D models! All customization options have preview images that can be browsed in the "Previews" folder.
+A NotITG/Outfox/Etterna/ITGmania port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main), now fully 3D modeled. (It was originally only meant to be for NotITG, but then I found out that you can structure the noteskin assets in some SM5 forks similarly, so it's in those SM5 forks as well)
+
+Welcome to the NotITG/Outfox/Etterna/ITGmania noteskin workshop for Enchantment! This is a fully customizable "build your own" noteskin suite based on the "enchantment" noteskin included with ITGmania. Just about every aspect of the noteskin can be customized. As this is meant to be fully compatible with modcharts, all arrows and mines now have 3D models! All customization options have preview images that can be browsed in the "Previews" folder.
 
 *(Scroll down to the Overview section for an overview of the features in this workshop, as well as some previews)*
 
@@ -38,13 +40,15 @@ https://github.com/user-attachments/assets/e6c9cb00-0f90-4e46-a68a-85fa3d004dd3
 
 *You can change your default settings for NotITG (including default noteskin) by going to the NotITG game folder, and open and edit Data/GamePrefs.ini.*
 
-# Installation (Outfox/Etterna)
-- Install the noteskin by copying the "enchantment-3d" and "enchantment-custom-3d" folders inside the "Enchantment - BASE"/"Outfox, Etterna" folder, and inside your Project Outfox game folder, paste them in "Appearance"/"NoteSkins"/"dance" (or "NoteSkins"/"dance" for Etterna). These contain the base default variant of the Enchantment noteskin.
+# Installation (Outfox/Etterna/ITGmania)
+*NOTE: This noteskin only works when Fast Note Rendering is turned OFF.*
+
+- Install the noteskin by copying the "enchantment-3d" and "enchantment-custom-3d" folders inside the "Enchantment - BASE"/"Outfox, Etterna, ITGmania" folder, and inside your Project Outfox game folder, paste them in "Appearance"/"NoteSkins"/"dance" (or "NoteSkins"/"dance" for Etterna, ITGmania). These contain the base default variant of the Enchantment noteskin.
 
 https://github.com/user-attachments/assets/3743d718-f175-4010-94d9-1499cbf34e23
 
 
-- There are also Test Suites in the "Enchantment - TEST SUITES"/"Outfox, Etterna" folder. Test Suites are variants of the noteskin, that have arrows, holds, rolls, receptors, etc. fully customized beforehand. You can install the Test Suite you want in "Appearance"/"Noteskins"/"dance" (or "Noteskins"/"dance" in Etterna) to quickly have a bunch of fully customized variants that you can try out without having to spend time browsing and tinkering. You can check the preview of each Test Suite inside the "Previews" folder.
+- There are also Test Suites in the "Enchantment - TEST SUITES"/"Outfox, Etterna, ITGmania" folder. Test Suites are variants of the noteskin, that have arrows, holds, rolls, receptors, etc. fully customized beforehand. You can install the Test Suite you want in "Appearance"/"Noteskins"/"dance" (or "Noteskins"/"dance" in Etterna, ITGmania) to quickly have a bunch of fully customized variants that you can try out without having to spend time browsing and tinkering. You can check the preview of each Test Suite inside the "Previews" folder.
 
 https://github.com/user-attachments/assets/b80cb5e6-490c-4d75-9c37-e7aaccc753b1
 
@@ -56,14 +60,14 @@ https://github.com/user-attachments/assets/e5126959-c88d-47a9-a009-21a940fc0849
 
 *You can change your default settings for Outfox (including default noteskin) in-game by going to the main menu, select Options -> User Experience -> Appearance Options.*
 
-# Customization (NotITG, Outfox and Etterna)
+# Customization (NotITG, Outfox, Etterna and ITGmania)
 *You will only be changing the "enchantment-custom-3d" folder.*
 
 - You can check the Previews folder for previews in an easily viewable and browsable format. Use it to figure out what noteskin variant you want.
 - Head on to the Customization folder and build your own customized noteskin.
 - Keep opening the noteskin variant folders that you prefer until you eventually see the "enchantment-custom-3d" folder.
 - Copy the "enchantment-custom-3d" folder.
-- In the NotITG or Etterna game folder, go to "NoteSkins"/"dance" folder (or in the Outfox game folder, go to "Appearance"/"NoteSkins"/"dance" folder), then paste the folder and replace files, then restart the game to apply the variant.
+- In your game folder, go to "NoteSkins"/"dance" folder (or in the Outfox game folder, go to "Appearance"/"NoteSkins"/"dance" folder), then paste the folder and replace files, then restart the game to apply the variant.
 
 Example video applying the "Plain Bright Simple" arrow variant to "enchantment-custom-3d":
 
@@ -110,7 +114,7 @@ There are also a few options for lifts for the Outfox port:
 
 
 ## Explosions
-*The Bright W1 tap explosion is not used in NotITG and is only used in advanced timing windows in Outfox.*
+*The Bright W1 tap explosion is not used in NotITG or Etterna, and is only used in advanced timing windows in Outfox and ITGmania.*
 
 Tap explosions can be customized to different match different judgement color sets. By default it comes with the Ornate "ITG" Glow set, but there are options for color sets like Rainbowmatic and Waterfall and a few others. There is also an "all white" option if you prefer your tap explosions to be color neutral. Tap explosions come in 3 variants per color set: Spark (X shaped like a DDR tap explosion), Glow (similar to the default ITG Cel/Metal noteskin tap explosions) and Minimal (similar to glow but with a smaller area). There are Ornate and Plain versions of every set. You can also disable tap explosions entirely with the "no explosions" customization option. Here is a preview of some of the tap explosion options:
 
