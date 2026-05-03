@@ -15,6 +15,9 @@ Welcome to the NotITG/Outfox/Etterna/ITGmania noteskin workshop for Enchantment!
 *(Scroll down to the Overview section for an overview of the features in this workshop, as well as some previews)*
 
 # Installation (NotITG)
+- Download this entire workshop by clicking on the green <> Code button at the top of the page.
+  <img width="698" height="101" alt="msedge_eccHtYGez3" src="https://github.com/user-attachments/assets/4f7b874a-894a-4d26-afb3-314b50a8ab9d" />
+  
 - Install the noteskin by copying the "enchantment-3d" and "enchantment-custom-3d" folders inside the "Enchantment - BASE"/"NotITG" folder, and inside your NotITG game folder, paste them in "NoteSkins"/"dance".
 
 https://github.com/user-attachments/assets/00addb70-4549-42dc-963f-259c7419d81d
