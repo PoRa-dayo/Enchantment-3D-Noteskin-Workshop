@@ -1,3 +1,5 @@
+*NOTE: You can use these for anything you want, with or without credit, so don't bother asking me for permission. Thank you and have fun.*
+
 <img width="1200" height="558" alt="logo" src="https://github.com/user-attachments/assets/0c827600-6126-4be5-910c-31eaff379da3" />
 
 *Check the trailer video [here](https://www.youtube.com/watch?v=HXFaNyKlyeY).*
