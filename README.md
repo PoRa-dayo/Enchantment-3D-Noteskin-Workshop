@@ -58,7 +58,7 @@ https://github.com/user-attachments/assets/3743d718-f175-4010-94d9-1499cbf34e23
 https://github.com/user-attachments/assets/b80cb5e6-490c-4d75-9c37-e7aaccc753b1
 
 
-- In Outfox, when you select a chart, right before the chart is played, when "Press [START] again for options" shows up, do that to get the option to select your noteskin.
+- IWhen you select a chart, right before the chart is played, when "Press [START] again for options" shows up, do that to get the option to select your noteskin.
 
 https://github.com/user-attachments/assets/e5126959-c88d-47a9-a009-21a940fc0849
 
