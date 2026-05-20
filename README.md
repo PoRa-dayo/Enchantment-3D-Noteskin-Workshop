@@ -22,7 +22,8 @@ Welcome to the NotITG/Outfox/Etterna/ITGmania noteskin workshop for Enchantment!
   
 - Install the noteskin by copying the "enchantment-3d" and "enchantment-custom-3d" folders inside the "Enchantment - BASE"/"NotITG" folder, and inside your NotITG game folder, paste them in "NoteSkins"/"dance".
 
-https://github.com/user-attachments/assets/00addb70-4549-42dc-963f-259c7419d81d
+
+https://github.com/user-attachments/assets/c9d9f387-e145-4b72-9327-a44d30c850b7
 
 
 These contain the base default variant of the Enchantment noteskin, which look like this in-game:
@@ -33,7 +34,8 @@ These contain the base default variant of the Enchantment noteskin, which look l
 
 - There are also Test Suites in the "Enchantment - TEST SUITES"/"NotITG" folder. Test Suites are variants of the noteskin, that have arrows, holds, rolls, receptors, etc. fully customized beforehand. You can install the Test Suite you want in "Noteskins"/"dance" to quickly have a bunch of fully customized variants that you can try out without having to spend time browsing and tinkering. You can check the preview of each Test Suite inside the "Previews" folder.
 
-https://github.com/user-attachments/assets/03ca3623-00e9-4a1f-98e6-d7475b62a741
+
+https://github.com/user-attachments/assets/9e60ac64-c29a-4177-8db6-a3935efa75a1
 
 
 
@@ -53,12 +55,16 @@ https://github.com/user-attachments/assets/e6c9cb00-0f90-4e46-a68a-85fa3d004dd3
 
 - Install the noteskin by copying the "enchantment-3d" and "enchantment-custom-3d" folders inside the "Enchantment - BASE"/"Outfox, Etterna, ITGmania" folder, and inside your Project Outfox game folder, paste them in "Appearance"/"NoteSkins"/"dance" (or "NoteSkins"/"dance" for Etterna, ITGmania). These contain the base default variant of the Enchantment noteskin.
 
-https://github.com/user-attachments/assets/3743d718-f175-4010-94d9-1499cbf34e23
+
+https://github.com/user-attachments/assets/25c0a4e0-5d64-46df-963f-c4a4dfd33919
+
 
 
 - There are also Test Suites in the "Enchantment - TEST SUITES"/"Outfox, Etterna, ITGmania" folder. Test Suites are variants of the noteskin, that have arrows, holds, rolls, receptors, etc. fully customized beforehand. You can install the Test Suite you want in "Appearance"/"Noteskins"/"dance" (or "Noteskins"/"dance" in Etterna, ITGmania) to quickly have a bunch of fully customized variants that you can try out without having to spend time browsing and tinkering. You can check the preview of each Test Suite inside the "Previews" folder.
 
-https://github.com/user-attachments/assets/b80cb5e6-490c-4d75-9c37-e7aaccc753b1
+
+https://github.com/user-attachments/assets/f703f859-0ab7-4d31-9e64-f8caf08ef97c
+
 
 
 - IWhen you select a chart, right before the chart is played, when "Press [START] again for options" shows up, do that to get the option to select your noteskin.
@@ -77,9 +83,11 @@ https://github.com/user-attachments/assets/e5126959-c88d-47a9-a009-21a940fc0849
 - Copy the "enchantment-custom-3d" folder.
 - In your game folder, go to "NoteSkins"/"dance" folder (or in the Outfox game folder, go to "Appearance"/"NoteSkins"/"dance" folder), then paste the folder and replace files, then restart the game to apply the variant.
 
-Example video applying the "Plain Bright Simple" arrow variant to "enchantment-custom-3d":
+Example video applying the "Plain Default Animated" arrow variant to "enchantment-custom-3d":
 
-https://github.com/user-attachments/assets/2ba98f4b-a628-43d6-a69b-cba85d5f4ffe
+
+https://github.com/user-attachments/assets/b41ab4fc-cf0e-46e8-8fd1-0b3b1cccb15b
+
 
 
 
