@@ -48,6 +48,9 @@ https://github.com/user-attachments/assets/e6c9cb00-0f90-4e46-a68a-85fa3d004dd3
 # Installation (Outfox/Etterna/ITGmania)
 *NOTE: This noteskin only works when Fast Note Rendering is turned OFF.*
 
+- Download this entire workshop by clicking on the green <> Code button at the top of the page, or visit the [releases page](https://github.com/PoRa-dayo/Enchantment-3D-Noteskin-Workshop/releases) to download individual folders of this workshop.
+  <img width="698" height="101" alt="msedge_eccHtYGez3" src="https://github.com/user-attachments/assets/4f7b874a-894a-4d26-afb3-314b50a8ab9d" />
+
 - Install the noteskin by copying the "enchantment-3d" and "enchantment-custom-3d" folders inside the "Enchantment - BASE"/"Outfox, Etterna, ITGmania" folder, and inside your Project Outfox game folder, paste them in "Appearance"/"NoteSkins"/"dance" (or "NoteSkins"/"dance" for Etterna, ITGmania). These contain the base default variant of the Enchantment noteskin.
 
 https://github.com/user-attachments/assets/3743d718-f175-4010-94d9-1499cbf34e23
