@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/00addb70-4549-42dc-963f-259c7419d81d
 
 These contain the base default variant of the Enchantment noteskin, which look like this in-game:
 
-![Default Suite](https://github.com/user-attachments/assets/603b4039-58dd-4c2a-9b19-cddfc0b7864b)
+<img width="600" height="450" alt="Default Suite" src="https://github.com/user-attachments/assets/603b4039-58dd-4c2a-9b19-cddfc0b7864b" />
 
 
 
