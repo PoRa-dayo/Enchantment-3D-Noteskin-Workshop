@@ -67,7 +67,7 @@ https://github.com/user-attachments/assets/f703f859-0ab7-4d31-9e64-f8caf08ef97c
 
 
 
-- IWhen you select a chart, right before the chart is played, when "Press [START] again for options" shows up, do that to get the option to select your noteskin.
+- When you select a chart, right before the chart is played, when "Press [START] again for options" shows up, do that to get the option to select your noteskin.
 
 https://github.com/user-attachments/assets/e5126959-c88d-47a9-a009-21a940fc0849
 
