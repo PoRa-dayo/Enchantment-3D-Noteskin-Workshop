@@ -19,7 +19,7 @@ Welcome to the NotITG/Outfox/Etterna/ITGmania noteskin workshop for "Enchantment
 *(Scroll down to the Overview section for an overview of the features in this workshop, as well as some previews)*
 
 # Installation
-*NOTE: In ITGmania/Etterna/Outfox, this noteskin only works when Fast Note Rendering is turned OFF.*
+*NOTE: In ITGmania and Etterna, this noteskin only works when Fast Note Rendering is turned OFF (In Outfox it works regardless of Fast Note Rendering).*
 
 - Download this entire workshop by clicking on the green <> Code button at the top of the page, or visit the [releases page](https://github.com/PoRa-dayo/Enchantment-3D-Noteskin-Workshop/releases) to download individual folders of this workshop.
   <img width="698" height="101" alt="msedge_eccHtYGez3" src="https://github.com/user-attachments/assets/4f7b874a-894a-4d26-afb3-314b50a8ab9d" />
