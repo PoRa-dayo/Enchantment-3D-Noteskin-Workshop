@@ -52,6 +52,9 @@ https://github.com/user-attachments/assets/e6c9cb00-0f90-4e46-a68a-85fa3d004dd3
 *You can change your default settings for ITGmania (including default noteskin) in-game by going to the main menu, select Options -> System Options.*
 
 
+# Installation and Customization (LEGACY)
+*View it [here](https://github.com/PoRa-dayo/Enchantment-3D-Noteskin-Workshop/blob/main/README_LEGACY.md).*
+
 
 # Overview
 This is a port of the Enchantment V2 workshop by HURG. Compared to the original Enchantment, Enchantment V2 features a simpler ornate pattern that looks nicer with smaller arrow sizes, which is more fitting for modcharts, and a lot more customization options. The original Enchantment, made by [EvocaitArt](https://x.com/EvocaitArt), is also ported and is available in this workshop as "Classic" variants.
