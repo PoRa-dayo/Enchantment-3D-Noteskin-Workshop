@@ -20,6 +20,7 @@ Welcome to the NotITG/Outfox/Etterna/ITGmania noteskin workshop for "Enchantment
 
 
 # Installation and Customization (NEW)
+*NOTE: In ITGmania and Etterna, this noteskin only works when Fast Note Rendering is turned OFF (In Outfox it works regardless of Fast Note Rendering).*
 - You will be customizing and installing your noteskin via THE_PROGRAM, a helper program made to provide a helpful interface for this workshop.
 
 - Download this entire workshop by clicking on the green <> Code button at the top of the page, or visit [THE_PROGRAM release page](https://github.com/PoRa-dayo/Enchantment-3D-Noteskin-Workshop/releases/tag/program) to download just enough resources to run THE_PROGRAM.
@@ -36,6 +37,19 @@ Welcome to the NotITG/Outfox/Etterna/ITGmania noteskin workshop for "Enchantment
 
 <img width="300" alt="ENCHANTMENT_PROGRAM_bhjAX85igm" src="https://github.com/user-attachments/assets/7a98dd22-108c-4f8d-b580-a76c075424be" />
 <img width="300" alt="ENCHANTMENT_PROGRAM_qyCW6jvWkx" src="https://github.com/user-attachments/assets/fd19f002-0753-449e-aa0d-aaad2571c125" />
+
+
+- Inside the game, when you select a chart, right before the chart is played, when "PRESS [START] TO CHOOSE MODS"/"Press [START] again for options" shows up, do that to get the option to select your noteskin.
+
+https://github.com/user-attachments/assets/e6c9cb00-0f90-4e46-a68a-85fa3d004dd3
+
+
+
+*You can change your default settings for NotITG (including default noteskin) by going to the NotITG game folder, and open and edit Data/GamePrefs.ini. The default noteskin is called "scalable".*
+
+*You can change your default settings for Outfox (including default noteskin) in-game by going to the main menu, select Options -> User Experience -> Appearance Options.*
+
+*You can change your default settings for ITGmania (including default noteskin) in-game by going to the main menu, select Options -> System Options.*
 
 
 # Installation (LEGACY)
