@@ -1,0 +1,16 @@
+{
+    "enchantment-custom-3d": {
+        "Arrow Border": ["Silver"],
+        "Arrows": ["Ornate (default)","TD Bright Void"],
+        "Hold+Roll Explosions": ["Ornate (default)","Glow (default)","Falspawn"],
+        "Tap Explosions": ["Ornate (default)","Glow (default)","ITG (default)"],
+        "Holds/Active": ["Full Light Ornate (default)","Falspawn"],
+        "Holds/Inactive": ["Full Light Plain","Falspawn"],
+        "Rolls/Active": ["Full Light Ornate (default)","D A N K"],
+        "Rolls/Inactive": ["Unlit (default)","D A N K"],
+        "Lifts": ["Ornate (default)","Spectrum (default)"],
+        "Mines": ["Orange Variants","Orange Invert Mini"],
+        "Receptor Pulse": ["On (default)"],
+        "Receptors": ["Halloween","Halloween Classic Static Ornate"]
+    }
+}
