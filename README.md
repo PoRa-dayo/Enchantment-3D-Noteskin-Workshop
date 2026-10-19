@@ -53,7 +53,7 @@ https://github.com/user-attachments/assets/e6c9cb00-0f90-4e46-a68a-85fa3d004dd3
 
 
 # Installation and Customization (LEGACY)
-*View it [here](https://github.com/PoRa-dayo/Enchantment-3D-Noteskin-Workshop/blob/main/README_LEGACY.md).*
+*For those who are unable to use THE_PROGRAM. View it [here](https://github.com/PoRa-dayo/Enchantment-3D-Noteskin-Workshop/blob/main/README_LEGACY.md).*
 
 
 # Overview
