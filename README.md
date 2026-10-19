@@ -18,10 +18,30 @@ Welcome to the NotITG/Outfox/Etterna/ITGmania noteskin workshop for "Enchantment
 
 *(Scroll down to the Overview section for an overview of the features in this workshop, as well as some previews)*
 
-# Installation
+
+# Installation and Customization (NEW)
+- You will be customizing and installing your noteskin via THE_PROGRAM, a helper program made to provide a helpful interface for this workshop.
+
+- Download this entire workshop by clicking on the green <> Code button at the top of the page, or visit [THE_PROGRAM release page](https://github.com/PoRa-dayo/Enchantment-3D-Noteskin-Workshop/releases/tag/program) to download just enough resources to run THE_PROGRAM.
+  <img width="698" height="101" alt="msedge_eccHtYGez3" src="https://github.com/user-attachments/assets/4f7b874a-894a-4d26-afb3-314b50a8ab9d" />
+
+- {WINDOWS USERS} Inside THE_PROGRAM folder, run ENCHANTMENT_PROGRAM.exe. If Windows is protecting your PC, click "More info", and click "Run anyway".
+<img width="200" alt="lKYpUP4DSy" src="https://github.com/user-attachments/assets/c34ecc2b-f228-436e-9f98-3afdfcee923c" />
+<img width="200" alt="BMRA1BlZwe" src="https://github.com/user-attachments/assets/66431946-02a5-4345-9b08-89fad90c4dcd" />
+
+
+- {OTHERS} If you have Python (and the Pillow library) installed, inside THE_PROGRAM folder, you can also run METCELABLE_PROGRAM.py.
+
+- All other instructions will be told to you directly via THE_PROGRAM, so <img height="52" alt="Relax and enjoy..." src="https://github.com/user-attachments/assets/9af591cb-949e-4a89-82f0-85da44b04d4e" />
+
+<img width="300" alt="ENCHANTMENT_PROGRAM_bhjAX85igm" src="https://github.com/user-attachments/assets/7a98dd22-108c-4f8d-b580-a76c075424be" />
+<img width="300" alt="ENCHANTMENT_PROGRAM_qyCW6jvWkx" src="https://github.com/user-attachments/assets/fd19f002-0753-449e-aa0d-aaad2571c125" />
+
+
+# Installation (LEGACY)
 *NOTE: In ITGmania and Etterna, this noteskin only works when Fast Note Rendering is turned OFF (In Outfox it works regardless of Fast Note Rendering).*
 
-- Download this entire workshop by clicking on the green <> Code button at the top of the page, or visit the [releases page](https://github.com/PoRa-dayo/Enchantment-3D-Noteskin-Workshop/releases) to download individual folders of this workshop.
+- Download this entire workshop by clicking on the green <> Code button at the top of the page, or visit the [releases page](https://github.com/PoRa-dayo/Enchantment-3D-Noteskin-Workshop/releases/tag/individuals) to download individual folders of this workshop.
   <img width="698" height="101" alt="msedge_eccHtYGez3" src="https://github.com/user-attachments/assets/4f7b874a-894a-4d26-afb3-314b50a8ab9d" />
 
   
@@ -57,7 +77,7 @@ https://github.com/user-attachments/assets/e6c9cb00-0f90-4e46-a68a-85fa3d004dd3
 *You can change your default settings for ITGmania (including default noteskin) in-game by going to the main menu, select Options -> System Options.*
 
 
-# Customization
+# Customization (LEGACY)
 *You will only be changing the "enchantment-custom-3d" folder.*
 
 - You can check the Previews folder for previews in an easily viewable and browsable format. Use it to figure out what noteskin variant you want.
