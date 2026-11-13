@@ -31,7 +31,7 @@ Welcome to the NotITG/Outfox/Etterna/ITGmania noteskin workshop for "Enchantment
 <img width="200" alt="BMRA1BlZwe" src="https://github.com/user-attachments/assets/66431946-02a5-4345-9b08-89fad90c4dcd" />
 
 
-- {OTHERS} If you have Python (and the Pillow library) installed, inside THE_PROGRAM folder, you can also run METCELABLE_PROGRAM.py.
+- {OTHERS} If you have Python (and the Pillow library) installed, inside THE_PROGRAM folder, you can also run ENCHANTMENT_PROGRAM.py.
 
 - All other instructions will be told to you directly via THE_PROGRAM, so <img height="52" alt="Relax and enjoy..." src="https://github.com/user-attachments/assets/9af591cb-949e-4a89-82f0-85da44b04d4e" />
 
